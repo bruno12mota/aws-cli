@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbruno12mota%2Faws-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbruno12mota%2Faws-cli?ref=badge_shield)
+
 =======
 aws-cli
 =======
@@ -442,3 +444,7 @@ help:
 .. _`Amazon Web Services Security Bulletins website`: https://aws.amazon.com/security/security-bulletins
 .. _pip: https://pip.pypa.io/en/stable/
 .. _`download the tarball`: https://pypi.org/project/awscli/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbruno12mota%2Faws-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbruno12mota%2Faws-cli?ref=badge_large)
